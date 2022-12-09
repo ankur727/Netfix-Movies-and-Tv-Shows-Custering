@@ -1,1 +1,1 @@
-# Netfix-Movies-and-Tv-Shows-Custering
+# Netfix-Movies-and-Tv-Shows-Clustering
